@@ -74,7 +74,8 @@ f: _____________ (Hz)
 
 6.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-![image](https://user-images.githubusercontent.com/85126275/132250638-fe846de4-551b-441c-84b1-f89e6cbfa6c1.png)
+![image](https://user-images.githubusercontent.com/85126275/132250760-d27b20b4-0a02-490a-b43b-9d2faa455a70.png)
+
 
 6.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? _______ ¿Por qué?
