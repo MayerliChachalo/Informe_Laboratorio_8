@@ -40,10 +40,16 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 ## Circuito armado en Dcac 
 
+![image](https://user-images.githubusercontent.com/85126275/132249295-c45f71f5-1a0c-493c-99c5-b7aa83655784.png)
+
 
 6.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
+![image](https://user-images.githubusercontent.com/85126275/132249383-78af01eb-0084-4df2-a8fa-7aa817e9ca4f.png)
+
 6.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/85126275/132250534-cc5db343-bef4-4913-becb-973f980629fe.png)
 
 6.4. Responda las siguientes preguntas:
 
@@ -67,6 +73,8 @@ f: _____________ (Hz)
 ω: ____________ (rad/s)
 
 6.7. Con el multímetro digital mida el voltaje de salida en RL:
+
+![image](https://user-images.githubusercontent.com/85126275/132250638-fe846de4-551b-441c-84b1-f89e6cbfa6c1.png)
 
 6.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? _______ ¿Por qué?
