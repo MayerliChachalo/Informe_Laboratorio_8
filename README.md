@@ -85,7 +85,7 @@ f: _____________ (Hz)
 ![image](https://user-images.githubusercontent.com/85126275/132250760-d27b20b4-0a02-490a-b43b-9d2faa455a70.png)
 
 
-6.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+6.8. Compare el voltaje medido en el punto 6.5. y el obtenido en el punto 6.7.
 ¿Coinciden? _______ ¿Por qué?
 _______________________________________________
 
