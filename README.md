@@ -62,11 +62,11 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-Abarca un cuadro y un tercio de cuadro aproximadamente
+Abarca dos cuadros y un tercio de cuadro aproximadamente
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-En 10 Volts/div
+En 3 Volts/div
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
