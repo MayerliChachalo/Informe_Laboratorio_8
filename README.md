@@ -8,7 +8,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo General**
 
+- Analizar el comportamiento y determinar de forma experimental y matemática las características de la función senoidal en circuitos eléctricos.
+
 **Objetivos Específicos**
+
+- Comprender la representación matemática y gráfica de una función senoidal en circuitos eléctricos.
+
+- Explicar el funcionamiento y la relación que existe entre las diferentes ondas sinusoidales para explicar fenómenos en circuitos eléctricos.
 
 ## 2.  MARCO TEORICO
 
@@ -88,4 +94,14 @@ _______________________________________________
 
 ## 8.  CONCLUCIONES
 
+- Con la ayuda de la practica realizada se pudo comprender de mejor manera el funcionamiento y comportamiento de la onda senoidal de igual forma se pudo notar que también estas características de la onda senoidal pueden ser explicadas de forma matemática mediante cálculos.
+
+- Mediantes los calculos realizados se pudo analizar y comprobar los valores obtenidos en el simulador, con el fin de poder analizar la diferencia de voltaje rms y voltaje pico.
+
+- Para poder visualizar el funcionamiento ideal de la onda senoidal se usó el simulador DCAC LAB el cual nos permite tener un panorama completo del funcionamiento de un osciloscopio y de la misma forma la representación gráfica de la onda.
+
 ## 9.  BIBLIOGRAFÍA
+
+Onda senoidal - EcuRed. Ecured.cu. (2021). Retrieved 7 September 2021, from https://www.ecured.cu/Onda_senoidal.
+
+Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. (2021). Retrieved 7 September 2021, from https://www.lifeder.com/onda-senoidal/.
