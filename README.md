@@ -12,6 +12,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 2.  MARCO TEORICO
 
+![Blank diagram](https://user-images.githubusercontent.com/75383758/132276804-8907a0f3-be89-499e-af7b-423fdb168190.png)
+
 ## 3. REQUISITOS PREVIOS.
 Investigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
 
