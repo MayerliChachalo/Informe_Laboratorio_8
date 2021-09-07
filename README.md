@@ -60,19 +60,19 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 6.4. Responda las siguientes preguntas:
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
 Abarca un cuadro y un tercio de cuadro aproximadamente
 
-¿En qué valor está posicionada la perilla VOLTS/DIV?
+**¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
 En 10 Volts/div
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
-¿En qué valor está posicionada la perilla TIME/DIV? 
+**¿En qué valor está posicionada la perilla TIME/DIV?** 
 
 0.1m time/div
 
@@ -86,19 +86,17 @@ Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
 6.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-![image](https://user-images.githubusercontent.com/85126275/132250760-d27b20b4-0a02-490a-b43b-9d2faa455a70.png)
+![image](https://user-images.githubusercontent.com/85126275/132351871-6dad3747-549b-48a6-a768-e9d20e493328.png)
 
 6.8. Compare el voltaje medido en el punto 6.5. y el obtenido en el punto 6.7.
-¿Coinciden?
+
+**¿Coinciden?**
 
 No coinciden
 
-¿Por qué?
+**¿Por qué?**
 
 Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms en cambio en el osciloscopio vemos el voltaje maximo directamente.
-
-_______________________________________________
-
 
 ## 7.  VIDEO
 
